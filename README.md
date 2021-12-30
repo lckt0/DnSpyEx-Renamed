@@ -6,4 +6,3 @@
 ![InWindowsExplorer](./screenshots/explorer.png)
 ![InTaskManager](./screenshots/taskmgr.png)
 ![InDnSpyRenamed](./screenshots/dnspy.png)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
