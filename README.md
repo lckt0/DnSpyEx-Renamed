@@ -3,9 +3,7 @@
 
 > [Click to Download Renamed DnSpy](https://bit.ly/3rh7uTq) (Password: lckt0)
 
-> [Renaming And Building Latest DnSpy - YouTube](https://www.youtube.com/watch?v=KR-her0bFlg)
-
-[![Renaming And Building Latest DnSpy - YouTube](https://img.youtube.com/vi/KR-her0bFlg/maxresdefault.jpg)](https://youtu.be/KR-her0bFlg)
+> [Renaming And Building Latest DnSpy - YouTube](https://www.youtube.com/watch?v=KR-her0bFlg
 
 </br>
 
